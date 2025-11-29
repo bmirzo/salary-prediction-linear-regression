@@ -3,7 +3,6 @@
 # 📈 Salary Prediction Using Linear Regression
 
 This project demonstrates a simple **linear regression model** that predicts an employee's **salary** based on their **years of experience**.  
-It is a clean, beginner-friendly machine learning example suitable for portfolio use and data science interview preparation.
 
 ---
 
@@ -13,9 +12,7 @@ The dataset contains two columns:
 
 - **YearsExperience**
 - **Salary**
-
-It has also been used in the *Machine Learning A–Z* course series.
-
+  
 ---
 
 ## 🎯 Project Objectives
